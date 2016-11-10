@@ -3,3 +3,12 @@ Question 1.
 var strength = '50,000 pounds';
 console.log("How much stuff can a variable hold?", strength);
 
+Question 2.
+
+var strength = '50,000 pounds';
+console.log("How much stuff can a variable hold?", strength);
+var age = 18;
+console.log(age);
+var hasPet = false;
+console.log(hasPet);
+
