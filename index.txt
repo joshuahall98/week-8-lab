@@ -10,3 +10,7 @@ console.log("Name: " + myString);
 console.log("Lucky Number: " + myNumber);
 console.log("Good joke? " + myBoolean);
 
+Question 2.
+
+console.log("bacon")
+console.log("bacon", "chicken")
