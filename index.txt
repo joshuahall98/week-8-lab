@@ -26,3 +26,7 @@ Question 4.
 
 console.log(365/27)
 console.log(365%27)
+
+Question 5.
+
+console.log(Math.floor(Math.random() * 100));
