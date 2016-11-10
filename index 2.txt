@@ -12,3 +12,10 @@ console.log(age);
 var hasPet = false;
 console.log(hasPet);
 
+Question 3.
+
+var morningAlarm = "6:30AM";
+morningAlarm = "11AM";
+console.log("Morning alarm is set to:", morningAlarm);
+
+
