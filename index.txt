@@ -1,0 +1,5 @@
+Question 1.
+
+var myString = "Josh";
+var myNumber = 117;
+var myBoolean = false;
